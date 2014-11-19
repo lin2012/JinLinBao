@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B8B19FE-A6EB-4679-869E-1B62B9CA4A25</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JinLinBao</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED2C46B953771F2095D6C3E41C2A145DF7D353BA</key>
+		<string>https://github.com/lin2012/JinLinBao.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JinLinBao/JinLinBao.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED2C46B953771F2095D6C3E41C2A145DF7D353BA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lin2012/JinLinBao.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED2C46B953771F2095D6C3E41C2A145DF7D353BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED2C46B953771F2095D6C3E41C2A145DF7D353BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JinLinBao</string>
+		</dict>
+	</array>
+</dict>
+</plist>
